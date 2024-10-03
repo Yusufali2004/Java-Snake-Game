@@ -11,7 +11,7 @@ _
 
 **Feel free to:
 **
-- Clone the repository and tinker with the code to make it your own!
-- 
+
+
 - Contribute new features and help make it even better!
 
