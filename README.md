@@ -6,7 +6,8 @@ _
 **This project is ideal for:
 **
 - Beginners who want to learn Java game development.
--
+
+
 - Anyone who enjoys classic arcade games
 
 **Feel free to:
